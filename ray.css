@@ -1,0 +1,175 @@
+
+		body {
+			background-color: gray;
+			background-image: url('bg.jpg');
+			background-size: 100%;
+
+
+		}
+		
+		.head1 {
+			background: black;
+			font-family: arial;
+			color: white;
+			width: 100%;
+			height: 90px;
+			padding: 25px 0px;
+		}
+		.head2 {
+			color: black;
+			font-family: arial;
+			align-content: center;
+			padding: 25px 0px;
+			font-size:40px;
+		}
+
+		* {
+			box-sizing: border-box;
+			padding: 0;
+			margin: 0;
+		}
+
+		.container1 {
+ 			display: grid;
+  			grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  			grid-gap: 20px;
+  			justify-content: center;
+  			align-items: center;
+}
+		}
+
+		.container2 {
+			background: white;
+			width: 200px;
+			height: 350px;
+			margin: 10px;
+			border-radius: 10px 10px 10px 10px;
+			text-align: center;
+
+		}
+
+		.container2 button {
+			height: 18px;
+			width: 100px;
+			background-color: white;
+			border-radius: 5px;
+			border-color: black;
+
+		}
+
+
+		.container2 h3 {
+			font-family: arial;
+			font-size: 13px;
+		}
+
+
+		.image {
+			background-color: black;
+			height: 300px ;
+			margin-bottom: 15px;
+			background-size:cover ;
+
+
+		}
+		.pet1 {
+			background-image: url(pet1.jpg);
+			background-size: 145%;
+			background-position: center;
+
+		}
+		.pet2 {
+			background-image: url(pet2.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet3 {
+			background-image: url(pet3.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet4 {
+			background-image: url(pet4.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet5 {
+			background-image: url(pet5.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet6 {
+			background-image: url(pet6.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet7 {
+			background-image: url(pet7.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet8 {
+			background-image: url(pet8.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet9 {
+			background-image: url(pet9.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet10 {
+			background-image: url(pet10.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet11 {
+			background-image: url(pet11.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet12 {
+			background-image: url(pet12.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet13 {
+			background-image: url(pet13.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet14 {
+			background-image: url(pet14.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet15 {
+			background-image: url(pet15.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet16 {
+			background-image: url(pet16.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet17 {
+			background-image: url(pet17.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet18 {
+			background-image: url(pet18.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet19 {
+			background-image: url(pet19.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
+		.pet20 {
+			background-image: url(pet20.jpg);
+			background-size: 145%;
+			background-position: center;
+		}
